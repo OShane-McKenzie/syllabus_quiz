@@ -1,0 +1,116 @@
+{
+    "title":"Lock-Up Administraion v4",
+    "count":10,
+    "questions": [
+      {
+        "question": "Who is responsible for assembling a team independent of the lockup staff to conduct mandatory cell searches at large lockup facilities?",
+        "options": {
+          "a": "Sub-officer in charge lock-ups.",
+          "b": "Administrative Officer in each division.",
+          "c": "Divisional Commanders.",
+          "d": "Area Administration Officers."
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). Traced back to section 8.6.5.2."
+      },
+      {
+        "question": "What is the responsibility of Divisional Commanders regarding the directives on mandatory cell searches?",
+        "options": {
+          "a": "To ignore the directives as they are not applicable to them.",
+          "b": "To ensure that these directives are followed by their subordinates.",
+          "c": "To conduct the searches themselves.",
+          "d": "To report the searches to the Inspector General."
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). Traced back to section 8.6.5.4."
+      },
+      {
+        "question": "How often should a return of the searches be compiled for each Area, according to the policy?",
+        "options": {
+          "a": "Monthly.",
+          "b": "Annually.",
+          "c": "Weekly.",
+          "d": "Quarterly."
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). Traced back to section 8.6.5.6."
+      },
+      {
+        "question": "What are the anti-smoking measures outlined in the policy for lock-up facilities?",
+        "options": {
+          "a": "Smoking is allowed in designated areas.",
+          "b": "No smoking in and around the cell block, and no naked lights or inflammable matter inside or near the cell block.",
+          "c": "Smoking is only allowed in prisoner cells.",
+          "d": "Smoking is allowed, but only during specific hours."
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). Traced back to section 8.6.6."
+      },
+      {
+        "question": "If a fire breaks out in the cell block, who should the Sub-officer in charge lock-ups contact first, according to the policy?",
+        "options": {
+          "a": "The nearest hospital.",
+          "b": "The local media.",
+          "c": "The fire brigade.",
+          "d": "The prisoners' families."
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). Traced back to section 8.6.6.5."
+      },
+      {
+        "question": "What is the responsibility of the Divisional Officer if the maximum capacity for the cells is exceeded due to a police operation?",
+        "options": {
+          "a": "Take no action, as it is not their responsibility.",
+          "b": "Transfer all prisoners to other divisions immediately.",
+          "c": "Provide adequate personnel for safe custody and arrange for transfer when necessary.",
+          "d": "Seek assistance from the public."
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). Traced back to section 8.7.1."
+      },
+      {
+        "question": "When a child is taken into police custody, what immediate action should be taken according to the policy?",
+        "options": {
+          "a": "Place the child in a cell with adults for supervision.",
+          "b": "Notify the Child Protection and Family Services Agency (CPFSA).",
+          "c": "Release the child without any further action.",
+          "d": "Charge the child for uncontrollable behavior."
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). Traced back to section 8.9.3.1 i."
+      },
+      {
+        "question": "What should be done if a child is remanded in custody by the court, according to the policy?",
+        "options": {
+          "a": "Send them home without any further action.",
+          "b": "Transfer them to Metcalfe Street and South Camp Road Remand Centres.",
+          "c": "Keep them in the regular cell block with adult prisoners.",
+          "d": "Charge them as adults."
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). Traced back to section 8.9.3.3 iii."
+      },
+      {
+        "question": "How often should updates on children in police custody be provided to the Child Protection and Family Services Agency (CPFSA) and the Office of the Children Advocate (OCA)?",
+        "options": {
+          "a": "Monthly.",
+          "b": "Quarterly.",
+          "c": "Annually.",
+          "d": "Weekly."
+        },
+        "answer": "d",
+        "notes": "The correct answer is (d). Traced back to section 8.9.3.7."
+      },
+      {
+        "question": "According to the policy, how many times a day are meals supplied to prisoners in police custody?",
+        "options": {
+          "a": "Once a day",
+          "b": "Twice a day",
+          "c": "Three times a day",
+          "d": "Four times a day"
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). Traced back to section 8.10.1."
+      }
+    ]
+  }

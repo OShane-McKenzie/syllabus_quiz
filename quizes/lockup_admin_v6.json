@@ -1,0 +1,116 @@
+{
+    "title":"Lock-Up Administraion v6",
+    "count":10,
+    "questions": [
+      {
+        "question": "What should be done with the prisoner before allowing them into a secure room for a legal visit?",
+        "options": {
+          "a": "They should be handcuffed",
+          "b": "They should be denied access to the secure room",
+          "c": "They should be searched",
+          "d": "They should be questioned by the police"
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). Traced back to section 8.14.2."
+      },
+      {
+        "question": "During a legal visit, where should the prisoner be positioned in relation to the police?",
+        "options": {
+          "a": "Out of view and out of hearing",
+          "b": "In full view but out of hearing",
+          "c": "In full view and full hearing",
+          "d": "Out of view but in hearing range"
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). Traced back to section 8.14.3."
+      },
+      {
+        "question": "What should be done with the prisoner after the legal visit is over?",
+        "options": {
+          "a": "They should be released immediately",
+          "b": "They should be locked in a cell",
+          "c": "They should be searched before being returned to the cell",
+          "d": "They should be allowed to leave without any further action"
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). Traced back to section 8.14.4."
+      },
+      {
+        "question": "According to the policy, why is it necessary to establish a procedure to ensure the timely court appearance of arrested persons?",
+        "options": {
+          "a": "To ensure they receive preferential treatment",
+          "b": "To prevent their release",
+          "c": "To safeguard their constitutional rights",
+          "d": "To delay their court appearances"
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). Traced back to section 8.15 Prisoner's Court Appearance."
+      },
+      {
+        "question": "What requirement does Section 16(2) of the Constitution of Jamaica impose regarding accused individuals?",
+        "options": {
+          "a": "They should be denied a fair hearing",
+          "b": "They should be given a fair hearing within an unreasonable time",
+          "c": "They should be given a fair hearing within a reasonable time",
+          "d": "They should not be given a fair hearing"
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). Traced back to section 8.15.2."
+      },
+      {
+        "question": "What action should the investigator take to prevent undue delay in compliance with Section 16(2) of the Constitution?",
+        "options": {
+          "a": "Delay the case as much as possible",
+          "b": "Submit the case to the court without investigation",
+          "c": "Prepare the case, have it vetted, and submit it to the court promptly",
+          "d": "Avoid submitting the case to the court"
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). Traced back to section 8.15.3."
+      },
+      {
+        "question": "When should a person arrested under Section 5(a) of the Unlawful Possession of Property Act be taken before a Parish Judge sitting in court?",
+        "options": {
+          "a": "Within 24 hours",
+          "b": "Within 48 hours",
+          "c": "Within 72 hours",
+          "d": "Whenever convenient"
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). Traced back to section 8.15.4."
+      },
+      {
+        "question": "What should the Custody, Detention, and Courts Officer do when non-Jamaican citizens are arrested or detained?",
+        "options": {
+          "a": "Nothing special; treat them like any other detainee",
+          "b": "Notify the authorities of their nationality",
+          "c": "Deport them immediately",
+          "d": "Provide them with free legal representation"
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). Traced back to section 11.3.7."
+      },
+      {
+        "question": "What is the primary responsibility of the Station Officers/Sub-Officers in charge of Lock-ups?",
+        "options": {
+          "a": "To avoid dealing with prisoners",
+          "b": "To ensure prisoners are not searched",
+          "c": "To ensure the security and safety of prisoners in custody",
+          "d": "To keep cells unlocked at all times"
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). Traced back to section 11.4."
+      },
+      {
+        "question": "What is the responsibility of the Sub-officer on duty or other police personnel when receiving a prisoner at any police station, as stated in the Lock-up Administration Policy?",
+        "options": {
+          "a": "Provide immediate bail for the prisoner.",
+          "b": "Verify the authenticity of the papers related to the prisoner's detention.",
+          "c": "Release the prisoner if the charge is minor.",
+          "d": "Consult with the judiciary about the prisoner's case."
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). Traced back to section 8.1.1."
+      }
+    ]
+  }

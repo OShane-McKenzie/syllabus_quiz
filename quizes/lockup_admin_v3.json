@@ -1,0 +1,116 @@
+{
+    "title":"Lock-Up Administraion v3",
+    "count":10,
+    "questions": [
+      {
+        "question": "When a private citizen apprehends someone and hands them over to the police, what responsibilities does the receiving police personnel have, as stated in the Lock-up Administration Policy?",
+        "options": {
+          "a": "Only check for the validity of the apprehending party's identification.",
+          "b": "Enquire into the circumstances, establish identity, collect statements, and carry out relevant police actions.",
+          "c": "Do not collect any statements, just accept the person into custody.",
+          "d": "Contact the apprehending party's lawyer immediately."
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). Traced back to section 8.3.2."
+      },
+      {
+        "question": "What procedure is to be followed for the release of prisoners from police custody, as per the Lock-up Administration Policy?",
+        "options": {
+          "a": "Release prisoners without any verification.",
+          "b": "Verify their identity only by checking their appearance.",
+          "c": "Ensure positive identification is made before release by checking with the investigator, interviewing the prisoner, and examining physical characteristics.",
+          "d": "Release prisoners without their personal property."
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). Traced back to section 8.4.1."
+      },
+      {
+        "question": "According to the Lock-up Administration Policy, what items should accompany a prisoner upon release to another lock-up or agency, provided they are not subject to police investigations?",
+        "options": {
+          "a": "None of the prisoner's personal property should accompany them.",
+          "b": "Only essential clothing items.",
+          "c": "All personal property of the prisoner.",
+          "d": "Only cash and valuables."
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). Traced back to section 8.4.2."
+      },
+      {
+        "question": "What items are considered unauthorized and may be intercepted during the inspection of articles brought by visitors for prisoners in police custody, as mentioned in the Lock-up Administration Policy?",
+        "options": {
+          "a": "Personal letters and clothing.",
+          "b": "Medication and food.",
+          "c": "Cellular phones, glassware, matches, and drugs.",
+          "d": "Any articles that are not on an approved list."
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). Traced back to section 8.5.5."
+      },
+      {
+        "question": "What measures are recommended in the Lock-up Administration Policy to minimize the opportunity for prisoners to escape from police lock-ups?",
+        "options": {
+          "a": "Encourage prisoners to cooperate voluntarily.",
+          "b": "Allow prisoners to have access to the cell keys.",
+          "c": "Implement security measures, such as not allowing single staff members to enter cells and locking unused doors.",
+          "d": "None of the above."
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). Traced back to section 8.6.1."
+      },
+      {
+        "question": "What is the procedure for personnel wishing to gain access to the lock-up facilities, as outlined in the Lock-up Administration Policy?",
+        "options": {
+          "a": "Access is unrestricted; anyone can enter without permission.",
+          "b": "Personnel must request permission from the Sub-officer in charge lock-ups.",
+          "c": "Only the Custody Officer is allowed to enter lock-up facilities.",
+          "d": "All personnel must be armed with firearms."
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). Traced back to section 8.6.3."
+      },
+      {
+        "question": "According to the Lock-up Administration Policy, what responsibilities do the Sub-officer in charge lock-ups and the Station Guard have regarding the security of the cells and the safety and welfare of prisoners?",
+        "options": {
+          "a": "They have no specific responsibilities.",
+          "b": "They must ensure that the prisoners are comfortable.",
+          "c": "They are responsible for the security of the cells and the safety and welfare of all prisoners in custody.",
+          "d": "Their only responsibility is to maintain cleanliness in the cells."
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). Traced back to section 8.6.4.1."
+      },
+      {
+        "question": "How often should prisoners be visually observed, according to the Lock-up Administration Policy?",
+        "options": {
+          "a": "At least once a day.",
+          "b": "At least once every half hour, or three times every hour between 7:00 p.m. and 5:00 a.m.",
+          "c": "Only during meals.",
+          "d": "Only when requested by the prisoners."
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). Traced back to section 8.6.4.3."
+      },
+      {
+        "question": "What is the purpose of regular security inspections of lock-up facilities, as mentioned in the Lock-up Administration Policy?",
+        "options": {
+          "a": "To assess the comfort of the prisoners.",
+          "b": "To check for cleanliness.",
+          "c": "To ensure the safety of police and prisoners and minimize the opportunity for escape.",
+          "d": "To evaluate the quality of the food provided to prisoners."
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). Traced back to section 8.6.2.15."
+      },
+      {
+        "question": "According to the policy, how often should cells be thoroughly searched in addition to regular daily searches to prevent the discovery of contraband?",
+        "options": {
+          "a": "Once a week.",
+          "b": "Once every 24 hours.",
+          "c": "Once every 48 hours.",
+          "d": "Monthly."
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). Traced back to section 8.6.5.1."
+      }
+    ]
+  }

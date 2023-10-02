@@ -1,0 +1,116 @@
+{
+  "title":"Lock-Up Administraion v2",
+  "count":10,
+  "questions": [
+    {
+      "question": "Under what circumstances may the Custody Officer or Sub-Officer in charge of lock-ups refuse a charge, as mentioned in the Lock-up Administration Policy?",
+      "options": {
+        "a": "If the prisoner is well-dressed.",
+        "b": "If the charge is related to a minor offense.",
+        "c": "If the arresting officer is a junior constable.",
+        "d": "If the charge is found to be frivolous, malicious, or unlawful."
+      },
+      "answer": "d",
+      "notes": "The correct answer is (d). Traced back to section 8.1.2."
+    },
+    {
+      "question": "According to the Lock-up Administration Policy, what information should be recorded when a prisoner is brought to a station for admission?",
+      "options": {
+        "a": "Only the prisoner's name and age.",
+        "b": "The date and time of entry, and the name of the arresting officer.",
+        "c": "Only the physical condition of the person.",
+        "d": "The offense for which the person is arrested and the clothing condition."
+      },
+      "answer": "b",
+      "notes": "The correct answer is (b). Traced back to section 8.1.3."
+    },
+    {
+      "question": "Which register records names of all persons charged and placed into custody?",
+      "options": {
+        "a": "Station Diary.",
+        "b": "Charge and Prisoners Property Book.",
+        "c": "Visitors Register.",
+        "d": "Prisoners' Medical Journal."
+      },
+      "answer": "b",
+      "notes": "The correct answer is (b). Traced back to section 8.1.4.2."
+    },
+    {
+      "question": "Who is responsible for maintaining records securely with the necessary confidentiality, including prisoner and detainee records?",
+      "options": {
+        "a": "The arresting Constable.",
+        "b": "The Divisional Officer.",
+        "c": "The Sub-officer in charge lock-ups.",
+        "d": "The Custody Officer."
+      },
+      "answer": "c",
+      "notes": "The correct answer is (c). Traced back to section 8.2.1."
+    },
+    {
+      "question": "How should access to prisoner or detainee records be regulated, according to the Lock-up Administration Policy?",
+      "options": {
+        "a": "All records should be made public.",
+        "b": "Records should be disseminated to anyone who requests them.",
+        "c": "Access should be limited and on a need-to-know basis, channeled through the Custody Officer or Sub-officer in charge lock-ups.",
+        "d": "Records should be freely accessible to any police personnel."
+      },
+      "answer": "c",
+      "notes": "The correct answer is (c). Traced back to section 8.2.2."
+    },
+    {
+      "question": "What is the purpose of the 'Prisoners' Medical Journal' mentioned in the Lock-up Administration Policy?",
+      "options": {
+        "a": "To record details of the prisoners' meals.",
+        "b": "To Lock-up Administration Policy all sickness reported by prisoners in custody.",
+        "c": "To list the names of prisoners who are ill.",
+        "d": "To record the number of visitors a prisoner receives."
+      },
+      "answer": "b",
+      "notes": "The correct answer is (b). Traced back to section 8.1.4.4."
+    },
+    {
+      "question": "According to the Lock-up Administration Policy, how should personal property, including cash, taken from a prisoner be recorded?",
+      "options": {
+        "a": "Only the total cash amount should be recorded.",
+        "b": "Cash should not be recorded.",
+        "c": "Cash should be recorded in the same denominations as received, with serial numbers, and signed by the prisoner and witnessed by two police personnel.",
+        "d": "Cash should be recorded with the total amount but without serial numbers."
+      },
+      "answer": "c",
+      "notes": "The correct answer is (c). Traced back to section 8.1.8."
+    },
+    {
+      "question": "What is the responsibility of the Sub-officer in charge lock-ups or the Station Officer/Guard regarding items taken from a prisoner, as mentioned in the Lock-up Administration Policy?",
+      "options": {
+        "a": "They should return the items to the prisoner immediately.",
+        "b": "They should destroy the items.",
+        "c": "They should ensure all items are properly tagged and secured in a storage receptacle provided for prisoner's property.",
+        "d": "They should use the items for official police purposes."
+      },
+      "answer": "c",
+      "notes": "The correct answer is (c). Traced back to section 8.1.10."
+    },
+    {
+      "question": "According to the Lock-up Administration Policy, who should conduct regular inspections of lock-up facilities and report on their condition?",
+      "options": {
+        "a": "The Divisional Officers.",
+        "b": "The Lay Visitors.",
+        "c": "The Inspector General.",
+        "d": "The Sub-officer in charge lock-ups."
+      },
+      "answer": "d",
+      "notes": "The correct answer is (d). Traced back to section 8.1.4.4."
+    },
+    {
+      "question": "What is the responsibility of police personnel when an inmate is removed from a penal institution and handed over to the police, according to the Lock-up Administration Policy?",
+      "options": {
+        "a": "Verify the inmate's identity through a detailed physical examination.",
+        "b": "Ignore accompanying Lock-up Administration Policys and identification badges.",
+        "c": "Do not record any information about the inmate.",
+        "d": "Contact the media for publicity."
+      },
+      "answer": "a",
+      "notes": "The correct answer is (a). Traced back to section 8.3.1."
+    }
+  ]
+}

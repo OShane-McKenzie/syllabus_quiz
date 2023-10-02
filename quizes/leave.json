@@ -1,0 +1,204 @@
+{
+    "title":"Leave",
+    "count":18,
+    "questions": [
+      {
+        "question": "What is vacation leave defined as in the staff orders?",
+        "options": {
+          "a": "Unpaid leave for personal matters",
+          "b": "Absence from work without notice",
+          "c": "Scheduled absence on full salary for recreation and/or rejuvenation",
+          "d": "Leave without pay for medical reasons"
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). (Traced back to section 7.4.1 Staff orders.)"
+      },
+      {
+        "question": "Who determines the rates of vacation leave for different grades of officers?",
+        "options": {
+          "a": "Permanent Secretary or Head of Department",
+          "b": "Ministry with responsibility for the Public Service",
+          "c": "Immediate supervisor",
+          "d": "The employee"
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). (Traced back to section 7.4.2 Staff orders.)"
+      },
+      {
+        "question": "When must employees apply for vacation leave according to the staff orders?",
+        "options": {
+          "a": "At least one month before the leave begins",
+          "b": "On the day they want to start the leave",
+          "c": "After the leave period has ended",
+          "d": "It is not specified in the staff orders"
+        },
+        "answer": "a",
+        "notes": "The correct answer is (a). (Traced back to section 7.4.5 Staff orders.)"
+      },
+      {
+        "question": "What does Recalled Leave refer to in the staff orders?",
+        "options": {
+          "a": "Leave that was not approved",
+          "b": "Cancelled leave due to service requirements",
+          "c": "Extra leave granted for outstanding performance",
+          "d": "Vacation leave taken by mistake"
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). (Traced back to section 7.4.10 ii Staff orders)"
+      },
+      {
+        "question": "Under what circumstances may Departmental Leave be granted according to the staff orders?",
+        "options": {
+          "a": "For vacation purposes only",
+          "b": "For personal or family matters",
+          "c": "For attending official meetings",
+          "d": "For studying purposes"
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). (Traced back to section 7.5.1 i Staff orders)"
+      },
+      {
+        "question": "How long can employees carry forward accumulated departmental leave into subsequent years?",
+        "options": {
+          "a": "Up to 1 year",
+          "b": "Up to 2 years",
+          "c": "Up to 3 years",
+          "d": "Indefinitely"
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). (Traced back to section 7.5.6 i Staff orders)"
+      },
+      {
+        "question": "When can officers be granted Recreational Leave according to the staff orders?",
+        "options": {
+          "a": "After every completed course of study",
+          "b": "Immediately following the completion of a course of study",
+          "c": "Anytime during the year",
+          "d": "Recreational Leave is not mentioned in the staff orders"
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). (Traced back to section 7.8.6 i Staff orders)"
+      },
+      {
+        "question": "What is the purpose of Half Pay Leave according to the staff orders?",
+        "options": {
+          "a": "To grant employees additional paid vacation",
+          "b": "To provide financial support during urgent private affairs",
+          "c": "To extend the period of vacation",
+          "d": "To allow employees to work half of their regular hours"
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). (Traced back to section 7.10 i Staff orders)"
+      },
+      {
+        "question": "According to the Book of Rules, who has the authority to grant leave to members?",
+        "options": {
+          "a": "Immediate supervisor",
+          "b": "Officer in Charge of Police Establishments",
+          "c": "The Commissioner",
+          "d": "Permanent Secretary of the Ministry"
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). (Traced back to section 4.2 Book of Rules.)"
+      },
+      {
+        "question": "What is the maximum duration of half pay leave that can be granted to a member?",
+        "options": {
+          "a": "105 days",
+          "b": "180 days",
+          "c": "12 months",
+          "d": "24 months"
+        },
+        "answer": "a",
+        "notes": "The correct answer is (a). (Traced back to section 4.23 Book of Rules.)"
+      },
+      {
+        "question": "Under what circumstances can special leave be granted according to the Book of Rules?",
+        "options": {
+          "a": "For vacation purposes",
+          "b": "Participation in sports or games",
+          "c": "Urgent private affairs",
+          "d": "Departmental needs"
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). (Traced back to section 4.24 Book of Rules.)"
+      },
+      {
+        "question": "What happens if a member is unable to return to duty at the end of their leave period?",
+        "options": {
+          "a": "Automatic extension of leave",
+          "b": "Additional leave granted without pay",
+          "c": "Extension of leave up to 6 days with proper authorization",
+          "d": "Dismissal from service"
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). (Traced back to section 4.25 Book of Rules.)"
+      },
+      {
+        "question": "According to the Book of Rules, how is the grant of leave affected if a member has official correspondence or accounts pending?",
+        "options": {
+          "a": "Leave is automatically granted",
+          "b": "Leave is not allowed until pending matters are resolved",
+          "c": "Pending matters are disregarded",
+          "d": "Leave is extended to accommodate pending matters"
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). (Traced back to section 4.5 Book of Rules.)"
+      },
+      {
+        "question": "What is the procedure for applying for leave, as per the Book of Rules?",
+        "options": {
+          "a": "Verbally inform supervisor",
+          "b": "Submit a typed application in triplicate at least two (2) months prior to the proposed date of commencement",
+          "c": "Send an email to the Commissioner",
+          "d": "Use a telegraph, telephone, or radio in case of emergency"
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). (Traced back to section 4.11 Book of Rules.)"
+      },
+      {
+        "question": "What is the consequence of non-reporting of illness for non-performance of duty according to the Book of Rules?",
+        "options": {
+          "a": "Automatic grant of sick leave",
+          "b": "Non-approval of leave application",
+          "c": "Loss of leave entitlement",
+          "d": "Claim of illness will not be entertained unless promptly reported and supported by a Medical Certificate within 48 hours"
+        },
+        "answer": "d",
+        "notes": "The correct answer is (d). (Traced back to section 4.10 Book of Rules.)"
+      },
+      {
+        "question": "How does the Book of Rules address leave in respect of injury sustained while on duty?",
+        "options": {
+          "a": "Special leave with full pay",
+          "b": "Sick leave without pay",
+          "c": "Full pay sick leave not exceeding 28 days",
+          "d": "Special consideration for leave without medical certification"
+        },
+        "answer": "a",
+        "notes": "The correct answer is (a). (Traced back to section 4.21 Book of Rules.)"
+      },
+      {
+        "question": "What is the maximum duration of special sick leave on full pay that can be granted according to the Book of Rules?",
+        "options": {
+          "a": "28 days",
+          "b": "90 days",
+          "c": "180 days",
+          "d": "Not specified"
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). (Traced back to section 4.22(b) Book of Rules.)"
+      },
+      {
+        "question": "According to the Book of Rules, who is responsible for granting extensions of leave?",
+        "options": {
+          "a": "The member's immediate supervisor",
+          "b": "Officer in Charge of the Division",
+          "c": "The Commissioner",
+          "d": "The Permanent Secretary of the Ministry"
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). (Traced back to section 4.26 Book of Rules.)"
+      }
+    ]
+  }

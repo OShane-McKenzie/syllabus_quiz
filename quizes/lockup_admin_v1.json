@@ -1,0 +1,116 @@
+{
+    "title":"Lock-Up Administraion v1",
+    "count":10,
+    "questions": [
+      {
+        "question": "According to the introduction, what is the primary responsibility of the Jamaica Constabulary Force (JCF) regarding persons taken into custody?",
+        "options": {
+          "a": "To ensure they are treated with severity and discipline.",
+          "b": "To ensure their human rights are upheld and they are treated respectfully and dignified.",
+          "c": "To extract information from them through interrogation.",
+          "d": "To transfer them to correctional facilities immediately."
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). Traced back to the first paragraph of the Introduction."
+      },
+      {
+        "question": "What is the significance of the 2014 revised Lock-up Administration policy and procedures mentioned in the Lock-up Administration Policy?",
+        "options": {
+          "a": "It introduced new harsher measures for detainees.",
+          "b": "It consolidated various directives and established international standards for interrogation.",
+          "c": "It reduced the responsibilities of the JCF regarding detainees.",
+          "d": "It focused on reducing the number of lock-up facilities."
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). Traced back to the first paragraph of the Introduction."
+      },
+      {
+        "question": "According to the Lock-up Administration Policy, who is responsible for the safety and effective management of all prisoners while in police custody?",
+        "options": {
+          "a": "The detainees themselves.",
+          "b": "The Department of Correctional Services (DCS).",
+          "c": "All members of the JCF and its auxiliary.",
+          "d": "Independent Commission of Investigations (INDECOM)."
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). Traced back to the first paragraph of the Introduction."
+      },
+      {
+        "question": "What is the consequence for breaches of the Lock-ups Administration Policy and Standard Operating Procedures (SOP)?",
+        "options": {
+          "a": "Immediate release of detainees.",
+          "b": "A warning letter.",
+          "c": "A fine for the responsible officers.",
+          "d": "Handling through the JCF disciplinary process."
+        },
+        "answer": "d",
+        "notes": "The correct answer is (d). Traced back to the first paragraph of the Introduction."
+      },
+      {
+        "question": "What is the primary purpose of the Lock-up Administration Policy and Standard Operating Procedures (SOP) mentioned in the Lock-up Administration Policy?",
+        "options": {
+          "a": "To create stricter detention conditions.",
+          "b": "To protect the rights of detainees.",
+          "c": "To reduce the number of police lock-ups.",
+          "d": "To promote secrecy in detention procedures."
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). Traced back to the second paragraph of the Introduction."
+      },
+      {
+        "question": "According to the Lock-up Administration Policy, who does the Lock-up Administration Policy and Standard Operating Procedures (SOP) apply to?",
+        "options": {
+          "a": "Only sworn members of the JCF.",
+          "b": "Only unsworn members of the JCF.",
+          "c": "All members of the JCF and Rural Police.",
+          "d": "Only the Divisional Commanders."
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). Traced back to the third paragraph under 'Scope.'"
+      },
+      {
+        "question": "What is the purpose of 'Lay Visitors' as mentioned in the Lock-up Administration Policy?",
+        "options": {
+          "a": "To assist with detainee interrogations.",
+          "b": "To conduct regular inspections of lock-up facilities.",
+          "c": "To serve as legal representatives for detainees.",
+          "d": "To assist in the transport of detainees."
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). Traced back to the definition of 'Lay Visitors' in section 5.3."
+      },
+      {
+        "question": "What is the purpose of 'Gaol Delivery' as mentioned in the Lock-up Administration Policy?",
+        "options": {
+          "a": "To provide meals to detainees.",
+          "b": "To record the status of prisoners during a court session.",
+          "c": "To release prisoners on bail.",
+          "d": "To transport prisoners to correctional facilities."
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). Traced back to the definition of 'Gaol Delivery' in section 5.2."
+      },
+      {
+        "question": "Who is responsible for coordinating all matters relating to police lock-ups and conducting regular visits and inspections, as mentioned in the Lock-up Administration Policy?",
+        "options": {
+          "a": "Divisional Commanders.",
+          "b": "The Inspector General.",
+          "c": "The Deputy Commissioner of Police i/c Administration.",
+          "d": "The Lay Visitors."
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). Traced back to section 6.5."
+      },
+      {
+        "question": "According to the Lock-up Administration Policy, what is the recognized purpose of Lock-ups?",
+        "options": {
+          "a": "Detention of persons awaiting trial.",
+          "b": "Detention of persons awaiting deportation.",
+          "c": "Detention of persons for questioning.",
+          "d": "Detention of persons for investigation."
+        },
+        "answer": "a",
+        "notes": "The correct answer is (a). Traced back to policy statement 7.3."
+      }
+    ]
+  }

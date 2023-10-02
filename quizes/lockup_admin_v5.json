@@ -1,0 +1,116 @@
+{
+    "title":"Lock-Up Administraion v5",
+    "count":10,
+    "questions": [
+      {
+        "question": "Who is responsible for inspecting diets supplied to prisoners to ensure satisfactory meals are provided within the allowed cost?",
+        "options": {
+          "a": "Sub-officers in charge stations",
+          "b": "Divisional Officer or their nominee",
+          "c": "Medical doctors",
+          "d": "Government officials"
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). Traced back to section 8.10.5."
+      },
+      {
+        "question": "What is the maximum duration that should elapse between meals for prisoners, under normal circumstances, according to the policy?",
+        "options": {
+          "a": "12 hours",
+          "b": "14 hours",
+          "c": "16 hours",
+          "d": "18 hours"
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). Traced back to section 8.10.7."
+      },
+      {
+        "question": "According to Rule 7 (4) of the Jamaica Constabulary Force Book of Rules, what must be done when escorting a prisoner over any long period of time or distance?",
+        "options": {
+          "a": "No special precautions are needed",
+          "b": "Ensure the prisoner is deprived of meals",
+          "c": "Supply the prisoner with their regular diet as if they were confined to an institution",
+          "d": "Release the prisoner temporarily"
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). Traced back to section 8.10.8."
+      },
+      {
+        "question": "What should be done before a prisoner is released from custody after serving a short term or before being sent off to prison, according to the policy?",
+        "options": {
+          "a": "No special actions are required",
+          "b": "The prisoner should be released immediately without any further procedures",
+          "c": "Diet should be ordered and served before release",
+          "d": "The prisoner should be fined"
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). Traced back to section 8.10.9."
+      },
+      {
+        "question": "According to the policy, when can the police arrest a person for being under the influence of alcohol or drugs while in charge of a vehicle?",
+        "options": {
+          "a": "Only if they cause an accident",
+          "b": "Only if they are involved in a police chase",
+          "c": "Whenever they are in charge of a motor vehicle on a road or other public place and are under the influence",
+          "d": "Never, as it is not within police jurisdiction"
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). Traced back to section 8.11.1."
+      },
+      {
+        "question": "What should the police do when an accused person is taken into custody for driving under the influence of alcohol?",
+        "options": {
+          "a": "Ignore the situation",
+          "b": "Inform the accused that no medical examination will be conducted",
+          "c": "Follow specific procedures including informing the accused about a medical examination by a doctor",
+          "d": "Release the accused immediately"
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). Traced back to section 8.11.2."
+      },
+      {
+        "question": "According to the policy, how many persons should be detailed to guard a hospitalized prisoner under police guard?",
+        "options": {
+          "a": "One person",
+          "b": "At least two persons",
+          "c": "As many as available",
+          "d": "It depends on the hospital's request"
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). Traced back to section 8.12.3."
+      },
+      {
+        "question": "When a prisoner requires private medical attention, what procedure must be followed to ensure the security of the lock-up is not compromised?",
+        "options": {
+          "a": "No special procedure is necessary",
+          "b": "The prisoner must be released temporarily",
+          "c": "Detailed security vetting and risk analysis of the medical practitioner must be conducted",
+          "d": "The prisoner must be taken to a public hospital"
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). Traced back to section 8.13.2."
+      },
+      {
+        "question": "What must be done when a medical practitioner is allowed to examine or treat a prisoner in custody, according to the policy?",
+        "options": {
+          "a": "No special precautions are necessary",
+          "b": "The medical practitioner should not be allowed near the prisoner",
+          "c": "The medical practitioner must be searched before entering the facility",
+          "d": "The medical practitioner must be allowed to examine the prisoner without any restrictions"
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). Traced back to section 8.13.5."
+      },
+      {
+        "question": "What should the Custody Officer or Sub-Officer in charge Lock-ups ensure regarding prisoners and their legal representatives?",
+        "options": {
+          "a": "Prisoners have no right to legal representation",
+          "b": "Prisoners should not be allowed legal visits",
+          "c": "Prisoners' legal representatives should be allowed to visit them",
+          "d": "Prisoners' legal representatives should be searched upon arrival"
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). Traced back to section 8.14 Attorney’s Visits to Prisoner."
+      }
+    ]
+  }
