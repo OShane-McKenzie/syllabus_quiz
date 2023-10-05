@@ -1,0 +1,38 @@
+[
+        {
+            "title":"Scout",
+            "img":"https://oshane-mckenzie.github.io/syllabus_quiz/badges/0.png",
+            "min":0,
+            "max":4
+        },
+        {
+            "title":"Man-at-Arms",
+            "img":"https://oshane-mckenzie.github.io/syllabus_quiz/badges/1.png",
+            "min":5,
+            "max":9
+        },
+        {
+            "title":"Long Sowrd Swordsman",
+            "img":"https://oshane-mckenzie.github.io/syllabus_quiz/badges/2.png",
+            "min":10,
+            "max":14
+        },
+        {
+            "title":"Two-Handed Swordsaman",
+            "img":"https://oshane-mckenzie.github.io/syllabus_quiz/badges/3.png",
+            "min":15,
+            "max":19
+        },
+        {
+            "title":"Champion",
+            "img":"https://oshane-mckenzie.github.io/syllabus_quiz/badges/4.png",
+            "min":20,
+            "max":24
+        },
+        {
+            "title":"Hero",
+            "img":"https://oshane-mckenzie.github.io/syllabus_quiz/badges/5.png",
+            "min":25,
+            "max":99999999999999999999999
+        }
+    ]
