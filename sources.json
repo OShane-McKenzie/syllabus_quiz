@@ -1,5 +1,4 @@
-{
-    "quiz_list":[
+[
     "https://oshane-mckenzie.github.io/syllabus_quiz/quizes/leave.json",
     "https://oshane-mckenzie.github.io/syllabus_quiz/quizes/quality_management.json",
     "https://oshane-mckenzie.github.io/syllabus_quiz/quizes/lockup_admin_v1.json",
@@ -8,5 +7,4 @@
     "https://oshane-mckenzie.github.io/syllabus_quiz/quizes/lockup_admin_v4.json",
     "https://oshane-mckenzie.github.io/syllabus_quiz/quizes/lockup_admin_v5.json",
     "https://oshane-mckenzie.github.io/syllabus_quiz/quizes/lockup_admin_v6.json"
-    ]
-}
+]
