@@ -3,13 +3,13 @@
         "content":"This is a test display message!!",
         "link":"https://example.com",
         "img":"https://oshane-mckenzie.github.io/syllabus_quiz/tickets/2.png",
-        "duration":20000
+        "duration":10000
     },
     {
         "content":"New season in two days!!",
         "link":"",
         "img":"https://oshane-mckenzie.github.io/syllabus_quiz/tickets/3.png",
-        "duration":20000
+        "duration":10000
     },
     {
         "content": "Special discount for our loyal customers!",
@@ -27,6 +27,6 @@
         "content": "Exciting workshops happening next week!",
         "link": "https://example.com/workshops",
         "img": "https://oshane-mckenzie.github.io/syllabus_quiz/tickets/1.png",
-        "duration": 20000
+        "duration": 10000
     }
 ]
