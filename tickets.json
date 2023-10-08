@@ -1,30 +1,35 @@
 [
     {
         "content":"This is a test display message!!",
+        "size":15,
         "link":"https://example.com",
         "img":"https://oshane-mckenzie.github.io/syllabus_quiz/tickets/2.png",
         "duration":10000
     },
     {
         "content":"New season in two days!!",
+        "size":15,
         "link":"",
         "img":"https://oshane-mckenzie.github.io/syllabus_quiz/tickets/3.png",
         "duration":10000
     },
     {
         "content": "Special discount for our loyal customers!",
+        "size":15,
         "link": "https://example.com/special-offer",
         "img": "https://oshane-mckenzie.github.io/syllabus_quiz/tickets/4.png",
         "duration": 15000
     },
     {
         "content": "Limited time offer! Grab your tickets now!",
+        "size":15,
         "link": "https://example.com/ticket-sale",
         "img": "https://oshane-mckenzie.github.io/syllabus_quiz/tickets/5.png",
         "duration": 12000
     },
     {
-        "content": "Exciting workshops happening next week!",
+        "content": "Exciting workshops happening next week! Must have items for your living room and bed room. Prizeses and surprises and so much more!",
+        "size":12,
         "link": "https://example.com/workshops",
         "img": "https://oshane-mckenzie.github.io/syllabus_quiz/tickets/1.png",
         "duration": 10000
