@@ -102,15 +102,15 @@
         "notes": "The correct answer is (b). (Reference: Section 12(5)(a)(ii))"
       },
       {
-        "question": "What action can the Tribunal take if a person refuses to answer questions during a hearing?",
+        "question": "What is the penalty if a person refuses to answer questions during a hearing?",
         "options": {
-          "a": "Issue a warning",
-          "b": "Fine the person",
-          "c": "Compel the person to answer",
-          "d": "Dismiss the case"
+          "a": "A warning",
+          "b": "A Fine",
+          "c": "The person will be compelled to answer",
+          "d": "None of the above"
         },
-        "answer": "c",
-        "notes": "The correct answer is (c). (Reference: Section 39(3))"
+        "answer": "b",
+        "notes": "The correct answer is (b). (Reference: Section 39(3))"
       },
       {
         "question": "Who is prohibited from making derogatory remarks towards the Tribunal?",
