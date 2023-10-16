@@ -192,9 +192,9 @@
       {
         "question": "According to the Book of Rules, who is responsible for granting extensions of leave?",
         "options": {
-          "a": "The member's immediate supervisor",
-          "b": "Officer in Charge of the Division",
-          "c": "The Commissioner",
+          "a": "The member's immediate supervisor.",
+          "b": "Officer in Charge of the Division.",
+          "c": "The Commissioner.",
           "d": "The Permanent Secretary of the Ministry"
         },
         "answer": "c",
