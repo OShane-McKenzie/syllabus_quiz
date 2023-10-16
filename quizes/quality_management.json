@@ -203,10 +203,10 @@
       {
         "question": "In which section of the policy is the Quality Management Policy of the JCF introduced?",
         "options": {
-          "a": "Section 1 - Background",
-          "b": "Section 2 - Purpose",
-          "c": "Section 3 - Scope",
-          "d": "Section 4 - Quality Statement"
+          "a": "Section 1 - Background.",
+          "b": "Section 2 - Purpose.",
+          "c": "Section 3 - Scope.",
+          "d": "Section 4 - Quality Statement."
         },
         "answer": "b",
         "notes": "The correct answer is (b)."
