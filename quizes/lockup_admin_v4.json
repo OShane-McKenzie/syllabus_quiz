@@ -93,10 +93,10 @@
       {
         "question": "How often should updates on children in police custody be provided to the Child Protection and Family Services Agency (CPFSA) and the Office of the Children Advocate (OCA)?",
         "options": {
-          "a": "Monthly.",
-          "b": "Quarterly.",
-          "c": "Annually.",
-          "d": "Weekly."
+          "a": "Monthly",
+          "b": "Quarterly",
+          "c": "Annually",
+          "d": "Weekly"
         },
         "answer": "d",
         "notes": "The correct answer is (d). Traced back to section 8.9.3.7."
