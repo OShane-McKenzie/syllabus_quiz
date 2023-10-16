@@ -1,7 +1,7 @@
 {
     "ads":true,
     "adDuration":60000,
-    "version":3.2,
+    "version":3.3,
     "live":true,
     "db1":"",
     "db1Active":"",
