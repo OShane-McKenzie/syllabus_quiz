@@ -1,1 +1,226 @@
-
+{
+    "title":"Sexual Harassment (Protection and Prevention) Act, 2021",
+    "count":20,
+    "questions": [
+      {
+        "question": "What does the term 'accommodation' include in the context of the Act?",
+        "options": {
+          "a": "Hotel rooms",
+          "b": "Residential and business accommodation",
+          "c": "Public spaces",
+          "d": "Educational institutions"
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). (Reference: Section 2(1), definition of 'accommodation')"
+      },
+      {
+        "question": "Who is defined as a 'client' in the Act?",
+        "options": {
+          "a": "Any person present at an institution",
+          "b": "Any person who conducts business with an employer",
+          "c": "Any person providing services to an institution",
+          "d": "Any person involved in legal proceedings"
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). (Reference: Section 2(1), definition of 'client')"
+      },
+      {
+        "question": "What does the term 'sexual harassment' mean in the Act?",
+        "options": {
+          "a": "Any friendly gesture of a sexual nature",
+          "b": "Unwelcome sexual advances that create an offensive or hostile environment",
+          "c": "Consensual sexual relationships at the workplace",
+          "d": "Any form of physical contact between co-workers"
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). (Reference: Section 2(1), definition of 'sexual harassment')"
+      },
+      {
+        "question": "Who can lodge a sexual harassment claim under Section 5 of the Act?",
+        "options": {
+          "a": "Only workers employed for more than 2 years",
+          "b": "Any person affiliated with an institution",
+          "c": "Only clients who conduct business with an employer",
+          "d": "Workers who allege they have been sexually harassed"
+        },
+        "answer": "d",
+        "notes": "The correct answer is (d). (Reference: Section 5(1))"
+      },
+      {
+        "question": "What must an employer do upon receiving a sexual harassment claim against a worker?",
+        "options": {
+          "a": "Ignore the claim if not supported by evidence",
+          "b": "Notify the worker against whom the claim is made and initiate an investigation",
+          "c": "Suspend the worker immediately",
+          "d": "File a counterclaim against the complaining worker"
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). (Reference: Section 5(2)(a))"
+      },
+      {
+        "question": "Who qualifies as a 'fit and proper person' under the Act?",
+        "options": {
+          "a": "Anyone with a clean criminal record",
+          "b": "Anyone who is not bankrupt",
+          "c": "Someone convicted of minor offenses",
+          "d": "Someone with sound probity and competence"
+        },
+        "answer": "d",
+        "notes": "The correct answer is (d). (Reference: Section 2(5))"
+      },
+      {
+        "question": "What does the Act require an employer to do in Section 3?",
+        "options": {
+          "a": "Ensure workers are not sexually harassed",
+          "b": "Provide monetary compensation to victims",
+          "c": "Promote a friendly work environment",
+          "d": "Offer self-defense classes to workers"
+        },
+        "answer": "a",
+        "notes": "The correct answer is (a). (Reference: Section 3(1))"
+      },
+      {
+        "question": "Who can make a complaint to the Tribunal under Section 27(1)(b)?",
+        "options": {
+          "a": "Anyone who feels offended by a worker's behavior",
+          "b": "Someone alleging a breach of confidentiality by an institution",
+          "c": "Anyone who believes their rights may be prejudiced",
+          "d": "Someone who disagrees with an employer's decision"
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). (Reference: Section 27(1)(b))"
+      },
+      {
+        "question": "Under Section 12(5)(a)(ii), what can an authorized officer do when investigating a complaint?",
+        "options": {
+          "a": "Interrogate anyone involved in the case",
+          "b": "Inspect and take copies of relevant documents",
+          "c": "Make an immediate arrest without a warrant",
+          "d": "Close down the institution under investigation"
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). (Reference: Section 12(5)(a)(ii))"
+      },
+      {
+        "question": "What action can the Tribunal take if a person refuses to answer questions during a hearing?",
+        "options": {
+          "a": "Issue a warning",
+          "b": "Fine the person",
+          "c": "Compel the person to answer",
+          "d": "Dismiss the case"
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). (Reference: Section 39(3))"
+      },
+      {
+        "question": "Who is prohibited from making derogatory remarks towards the Tribunal?",
+        "options": {
+          "a": "Witnesses",
+          "b": "Journalists",
+          "c": "Defendants",
+          "d": "Spectators"
+        },
+        "answer": "a",
+        "notes": "The correct answer is (a). (Reference: Section 39(4))"
+      },
+      {
+        "question": "What is the punishment for knowingly making a false sexual harassment claim or complaint under Section 41(1)?",
+        "options": {
+          "a": "Warning",
+          "b": "Fine",
+          "c": "Community service",
+          "d": "Verbal reprimand"
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). (Reference: Section 41(2))"
+      },
+      {
+        "question": "Under Section 10(2), what is prohibited for a member of staff or a person in authority at an institution?",
+        "options": {
+          "a": "Offering scholarships to students",
+          "b": "Subjecting students to rigorous training programs",
+          "c": "Making it appear that preferential treatment is contingent upon sexual advances",
+          "d": "Allowing students to choose their own coursework"
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). (Reference: Section 10(2))"
+      },
+      {
+        "question": "Who is defined as a 'worker' under the Act?",
+        "options": {
+          "a": "Only employees in the private sector",
+          "b": "Any person engaged by an employer in any capacity",
+          "c": "Only individuals with formal employment contracts",
+          "d": "Only individuals above the age of 21"
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). (Reference: Section 2(1), definition of 'worker')"
+      },
+      {
+        "question": "What is the maximum penalty for obstructing an authorized officer in the exercise of their functions?",
+        "options": {
+          "a": "Fine not exceeding one million dollars",
+          "b": "Fine not exceeding five hundred thousand dollars",
+          "c": "Fine not exceeding one hundred thousand dollars",
+          "d": "Fine not exceeding two million dollars"
+        },
+        "answer": "a",
+        "notes": "The correct answer is (a). (Reference: Section 12(7))"
+      },
+      {
+        "question": "What must a person do before making a complaint under Section 27(1)(b)?",
+        "options": {
+          "a": "Provide evidence of the alleged misconduct",
+          "b": "Exhaust internal mechanisms and procedures, if available",
+          "c": "Obtain legal representation",
+          "d": "File a police report"
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). (Reference: Section 27(4))"
+      },
+      {
+        "question": "What does the Act require an employer to do upon receiving a sexual harassment claim against a client?",
+        "options": {
+          "a": "Ignore the claim if it involves a client",
+          "b": "Take appropriate action to bring the matter to the client's attention",
+          "c": "Immediately terminate the client's contract",
+          "d": "Pay compensation to the victim"
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). (Reference: Section 5(2)(b))"
+      },
+      {
+        "question": "Who is responsible for ensuring that students, residents, wards, inmates, patients, or members of an institution are not sexually harassed?",
+        "options": {
+          "a": "Local law enforcement",
+          "b": "The person in charge of the institution",
+          "c": "Human resources department",
+          "d": "The complainant"
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). (Reference: Section 3(2))"
+      },
+      {
+        "question": "What does the Act define as 'sexual advance'?",
+        "options": {
+          "a": "Any romantic gesture between co-workers",
+          "b": "Physical contact of a sexual nature, demand for sex, sexual suggestions, and other conduct of a sexual nature",
+          "c": "Only verbal requests for sexual favors",
+          "d": "Compliments about appearance"
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). (Reference: Section 2(1), definition of 'sexual advance')"
+      },
+      {
+        "question": "Who is defined as a 'complainant' under the Act?",
+        "options": {
+          "a": "Any person who feels uncomfortable at work",
+          "b": "Any person who makes a complaint pursuant to the provisions of this Act",
+          "c": "Only workers who have been sexually harassed",
+          "d": "Only clients who have faced harassment from workers"
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). (Reference: Section 2(1), definition of 'complainant')"
+      }
+    ]
+  }
