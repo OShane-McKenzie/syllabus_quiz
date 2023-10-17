@@ -1,6 +1,6 @@
 {
     "ads":false,
-    "adDuration":60000,
+    "adDuration":10000,
     "version":3.3,
     "live":true,
     "db1":"",
