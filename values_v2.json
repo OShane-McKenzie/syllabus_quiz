@@ -1,5 +1,5 @@
 {
-    "ads":true,
+    "ads":false,
     "adDuration":60000,
     "version":3.3,
     "live":true,
