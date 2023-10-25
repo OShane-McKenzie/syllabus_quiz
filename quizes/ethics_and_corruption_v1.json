@@ -159,9 +159,9 @@
       {
         "question": "What is considered a defense for a person charged with an offense of illicit enrichment according to the Act?",
         "options": {
-          "a": "Proof of inheritance of assets",
-          "b": "Proof of ownership of assets",
-          "c": "Proof of financial stability",
+          "a": "Proof of inheritance of assets.",
+          "b": "Proof of ownership of assets.",
+          "c": "Proof of financial stability.",
           "d": "Proof of lawful means for acquiring assets."
         },
         "answer": "d",
