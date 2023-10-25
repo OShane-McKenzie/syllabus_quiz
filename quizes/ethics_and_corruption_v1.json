@@ -1,0 +1,226 @@
+{
+    "title":"Ethics and Corruption v1",
+    "count":20,
+    "questions": [
+      {
+        "question": "What is the \"appointed day\" according to the Corruption Prevention Act?",
+        "options": {
+          "a": "January 1, 2001",
+          "b": "May 1, 2001",
+          "c": "June 1, 2001",
+          "d": "December 1, 2001"
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). (Traced back to Section 2(1). Corruption Prevention Act 2001)"
+      },
+      {
+        "question": "What does the term \"public function\" include according to the Act?",
+        "options": {
+          "a": "Activities performed only by government officials",
+          "b": "Activities performed by private individuals",
+          "c": "Activities performed by government officials, public or private bodies providing public services, and elected Members of the House of Representatives or Senate",
+          "d": "Activities performed for financial gain only"
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). (Traced back to Section 2(1). Corruption Prevention Act 2001)"
+      },
+      {
+        "question": "According to Section 14(1)(a), what constitutes an act of corruption by a public servant?",
+        "options": {
+          "a": "Accepting gifts or benefits for performing public functions",
+          "b": "Failure to provide an explanation about disproportionate assets",
+          "c": "Using classified information for personal gain",
+          "d": "All of the above"
+        },
+        "answer": "a",
+        "notes": "The correct answer is (a). (Traced back to Section 14(1)(a). Corruption Prevention Act 2001)"
+      },
+      {
+        "question": "What is the penalty for a second or subsequent offense related to corruption according to Section 15(1)(b)?",
+        "options": {
+          "a": "A fine not exceeding one million dollars",
+          "b": "Imprisonment for a term not exceeding two years",
+          "c": "A fine not exceeding ten million dollars or imprisonment for a term not exceeding ten years or both",
+          "d": "Imprisonment for a term not exceeding five years"
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). (Traced back to Section 15(1)(b). Corruption Prevention Act 2001)"
+      },
+      {
+        "question": "Under what circumstances can a public servant be prosecuted for illicit enrichment according to the Act?",
+        "options": {
+          "a": "If he fails to declare his assets",
+          "b": "If he fails to explain disproportionate assets to the Commission",
+          "c": "If he fails to attend an inquiry by the Commission",
+          "d": "If he fails to provide information required by the Commission"
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). (Traced back to Section 14(5). Corruption Prevention Act 2001)"
+      },
+      {
+        "question": "What defense is available to a person charged with an offense of illicit enrichment according to the Act?",
+        "options": {
+          "a": "Proof of inheritance of assets",
+          "b": "Proof of ownership of assets",
+          "c": "Proof of financial stability",
+          "d": "Proof of lawful means for acquiring assets"
+        },
+        "answer": "a",
+        "notes": "The correct answer is (a). (Traced back to Section 14(5A). Corruption Prevention Act 2001)"
+      },
+      {
+        "question": "What is the punishment for failing to furnish a statutory declaration to the Commission without reasonable cause, according to Section 15(2)(a)?",
+        "options": {
+          "a": "A fine not exceeding two hundred thousand dollars",
+          "b": "Imprisonment for a term not exceeding two years",
+          "c": "Both a fine not exceeding two hundred thousand dollars and imprisonment for a term not exceeding two years",
+          "d": "A fine not exceeding one million dollars"
+        },
+        "answer": "a",
+        "notes": "The correct answer is (a). (Traced back to Section 15(2)(a). Corruption Prevention Act 2001)"
+      },
+      {
+        "question": "According to the Act, what is considered an act of corruption for an agent?",
+        "options": {
+          "a": "Accepting gifts only",
+          "b": "Making false statements on behalf of the principal",
+          "c": "Accepting gifts or consideration as an inducement for doing or forbearing to do any act related to the principal's affairs",
+          "d": "Providing false information about the principal"
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). (Traced back to Section 14(10)(a). Corruption Prevention Act 2001)"
+      },
+      {
+        "question": "Under what circumstances can a person apply for an order regarding property forfeiture according to the Act?",
+        "options": {
+          "a": "During the proceedings for the offense",
+          "b": "Within a period of six months after the day on which a forfeiture order is made",
+          "c": "Both a and b",
+          "d": "Only a"
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). (Traced back to Section 15(6). Corruption Prevention Act 2001)"
+      },
+      {
+        "question": "What does the Act define as \"public function\"?",
+        "options": {
+          "a": "Any activity performed by a government official",
+          "b": "Any activity performed for financial gain",
+          "c": "Any activity performed a single time or continually, whether or not payment is received therefor, which is carried out by a person for, or on behalf of or under the direction of a Ministry, Department of Government, a statutory body or authority, a Parish Council, the Kingston and St. Andrew Corporation or a government company; a body, whether public or private, providing public services; a Member of the House of Representatives or of the Senate in that capacity",
+          "d": "Any activity performed by a Member of the House of Representatives or of the Senate"
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). (Traced back to Section 2(1). Corruption Prevention Act 2001)"
+      },
+      {
+        "question": "What does the term \"public servant\" include according to the Act?",
+        "options": {
+          "a": "Only individuals employed in the public service of Jamaica",
+          "b": "Individuals employed in the public, municipal, or parochial service of Jamaica, in the service of a statutory body or authority, or a government company, and those appointed, elected, selected, or otherwise engaged to perform a public function",
+          "c": "Only elected Members of the House of Representatives or of the Senate",
+          "d": "Individuals working for private companies providing public services"
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). (Traced back to Section 2(1). Corruption Prevention Act 2001)"
+      },
+      {
+        "question": "According to Section 14(6)(a), what constitutes an act of corruption by a public servant?",
+        "options": {
+          "a": "Using classified information for personal benefit",
+          "b": "Using property belonging to the Government or any statutory body, authority, or government company for personal benefit",
+          "c": "Using any document or information obtained during the performance of duties for personal benefit",
+          "d": "Accepting gifts or benefits for performing public functions"
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). (Traced back to Section 14(6)(a). Corruption Prevention Act 2001)"
+      },
+      {
+        "question": "What happens if a public servant fails to explain the origin of assets disproportionate to his lawful earnings according to the Act?",
+        "options": {
+          "a": "He will be fined without imprisonment",
+          "b": "He will be prosecuted for the offense of illicit enrichment",
+          "c": "He will be demoted",
+          "d": "He will be given a warning"
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). (Traced back to Section 14(5). Corruption Prevention Act 2001)"
+      },
+      {
+        "question": "According to Section 15(3)(b), what can the court order if the property involved in corruption is situated outside Jamaica?",
+        "options": {
+          "a": "The property will be forfeited to the court",
+          "b": "An amount equivalent to the value of such property, assessed as directed by the Court, will be paid by the public servant concerned to the Crown",
+          "c": "The property will be returned to the accused",
+          "d": "The property will be sold and the funds given to charity"
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). (Traced back to Section 15(3)(b). Corruption Prevention Act 2001)"
+      },
+      {
+        "question": "What is considered a defense for a person charged with an offense of illicit enrichment according to the Act?",
+        "options": {
+          "a": "Proof of inheritance of assets",
+          "b": "Proof of ownership of assets",
+          "c": "Proof of financial stability",
+          "d": "Proof of lawful means for acquiring assets"
+        },
+        "answer": "d",
+        "notes": "The correct answer is (d). (Traced back to Section 14(5A). Corruption Prevention Act 2001)"
+      },
+      {
+        "question": "What can a person do if they claim an interest in any property referred to in subsection (5) of Section 15?",
+        "options": {
+          "a": "Apply to the Commission",
+          "b": "Apply to the Court",
+          "c": "Apply to the Police",
+          "d": "Apply to the Governor"
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). (Traced back to Section 15(6). Corruption Prevention Act 2001)"
+      },
+      {
+        "question": "What is the punishment for knowingly giving false information at an inquiry conducted by the Commission under Section 7?",
+        "options": {
+          "a": "A fine not exceeding two hundred thousand dollars",
+          "b": "Imprisonment for a term not exceeding two years",
+          "c": "Both a fine not exceeding two hundred thousand dollars and imprisonment for a term not exceeding two years",
+          "d": "A fine not exceeding one million dollars"
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). (Traced back to Section 15(2)(d). Corruption Prevention Act 2001)"
+      },
+      {
+        "question": "According to Section 14(11), who does the term \"agent\" include?",
+        "options": {
+          "a": "Only lawyers representing individuals",
+          "b": "Any person employed by or acting for another",
+          "c": "Any government official",
+          "d": "Only individuals involved in real estate transactions"
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). (Traced back to Section 14(12). Corruption Prevention Act 2001)"
+      },
+      {
+        "question": "Under what circumstances can a public servant be liable for prosecution in Jamaica for an act of corruption committed in another State?",
+        "options": {
+          "a": "If the act involves a large sum of money",
+          "b": "If the act is particularly detrimental to the other State",
+          "c": "If the act is specified in the Act and is committed in another State",
+          "d": "If the act is committed against a government official in another State"
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). (Traced back to Section 14(9). Corruption Prevention Act 2001)"
+      },
+      {
+        "question": "What does the Act consider as \"document\"?",
+        "options": {
+          "a": "Only written papers and photographs",
+          "b": "Only written papers",
+          "c": "Any written or visual material, including photographs, films, and electronic data",
+          "d": "Only government-related documents"
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). (Traced back to Section 2(1). Corruption Prevention Act 2001)"
+      }
+    ]
+  }
