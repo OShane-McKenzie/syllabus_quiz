@@ -65,19 +65,19 @@
           "c": "Proof of financial stability",
           "d": "Proof of lawful means for acquiring assets"
         },
-        "answer": "a",
-        "notes": "The correct answer is (a). (Traced back to Section 14(5A). Corruption Prevention Act 2001)"
+        "answer": "d",
+        "notes": "The correct answer is (d). (Traced back to Section 14(5A). Corruption Prevention Act 2001)"
       },
       {
         "question": "What is the punishment for failing to furnish a statutory declaration to the Commission without reasonable cause, according to Section 15(2)(a)?",
         "options": {
-          "a": "A fine not exceeding two hundred thousand dollars",
-          "b": "Imprisonment for a term not exceeding two years",
-          "c": "Both a fine not exceeding two hundred thousand dollars and imprisonment for a term not exceeding two years",
+          "a": "A fine not exceeding two hundred thousand dollars only",
+          "b": "Imprisonment for a term not exceeding two years only",
+          "c": "A fine not exceeding two hundred thousand dollars and/or imprisonment for a term not exceeding two years",
           "d": "A fine not exceeding one million dollars"
         },
-        "answer": "a",
-        "notes": "The correct answer is (a). (Traced back to Section 15(2)(a). Corruption Prevention Act 2001)"
+        "answer": "c",
+        "notes": "The correct answer is (c). (Traced back to Section 15(2)(a). Corruption Prevention Act 2001)"
       },
       {
         "question": "According to the Act, what is considered an act of corruption for an agent?",
