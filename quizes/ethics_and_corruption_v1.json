@@ -192,10 +192,10 @@
       {
         "question": "According to Section 14(11), who does the term \"agent\" include?",
         "options": {
-          "a": "Only lawyers representing individuals",
-          "b": "Any person employed by or acting for another",
-          "c": "Any government official",
-          "d": "Only individuals involved in real estate transactions"
+          "a": "Only lawyers representing individuals.",
+          "b": "Any person employed by or acting for another.",
+          "c": "Any government official.",
+          "d": "Only individuals involved in real estate transactions."
         },
         "answer": "b",
         "notes": "The correct answer is (b). (Traced back to Section 14(12). Corruption Prevention Act 2001)"
