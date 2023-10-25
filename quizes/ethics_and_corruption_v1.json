@@ -126,13 +126,13 @@
       {
         "question": "According to Section 14(6)(a), what constitutes an act of corruption by a public servant?",
         "options": {
-          "a": "Using classified information for personal benefit",
+          "a": "Using classified information obtained as a result of performing his functions for personal benefit",
           "b": "Using property belonging to the Government or any statutory body, authority, or government company for personal benefit",
           "c": "Using any document or information obtained during the performance of duties for personal benefit",
           "d": "Accepting gifts or benefits for performing public functions"
         },
-        "answer": "c",
-        "notes": "The correct answer is (c). (Traced back to Section 14(6)(a). Corruption Prevention Act 2001)"
+        "answer": "a",
+        "notes": "The correct answer is (a). (Traced back to Section 14(6)(a). Corruption Prevention Act 2001)"
       },
       {
         "question": "What happens if a public servant fails to explain the origin of assets disproportionate to his lawful earnings according to the Act?",
