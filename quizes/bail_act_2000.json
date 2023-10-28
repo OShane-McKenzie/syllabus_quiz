@@ -1,0 +1,227 @@
+{
+    "title":"Bail Act 2000",
+    "count":20,
+    "questions": [
+      {
+        "question": "What is the title of the Act?",
+        "options": {
+          "a": "Bail and Custody Act",
+          "b": "Criminal Proceedings Act",
+          "c": "Bail Act",
+          "d": "Offence and Bail Act"
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). (Source: Section 1. This Act may be cited as the Bail Act.)"
+      },
+      {
+        "question": "Who has the authority to declare a facility as a bail centre under this Act?",
+        "options": {
+          "a": "Judge",
+          "b": "Police Officer",
+          "c": "Minister",
+          "d": "Resident Magistrate"
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). (Source: Section 20. The Minister may, by order, declare any facility to be a bail centre for the purposes of this Act.)"
+      },
+      {
+        "question": "What does 'bail in criminal proceedings' refer to according to the Act?",
+        "options": {
+          "a": "Bail granted for any offense",
+          "b": "Bail granted in connection with proceedings for an offense",
+          "c": "Bail granted after conviction",
+          "d": "Bail granted for civil cases"
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). (Source: Section 2. 'bail in criminal proceedings' means bail which may be granted... in connection with an offence, to a person who is under arrest for the offence or for whose arrest a warrant (endorsed for bail) has been issued;)"
+      },
+      {
+        "question": "Who may deny bail to a defendant charged with murder, treason, or treason felony?",
+        "options": {
+          "a": "Police Officer",
+          "b": "Judge",
+          "c": "Justice of the Peace",
+          "d": "Resident Magistrate"
+        },
+        "answer": "d",
+        "notes": "The correct answer is (d). (Source: Section 3. (4) A person charged with murder, treason, or treason felony may be granted bail only by a Resident Magistrate or a Judge.)"
+      },
+      {
+        "question": "How long can a person be held in custody without considering the question of bail according to the Act?",
+        "options": {
+          "a": "12 hours",
+          "b": "24 hours",
+          "c": "48 hours",
+          "d": "72 hours"
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). (Source: Section 3. (2) A person who is charged with an offence shall not be held in custody for longer than twenty-four hours without the question of bail being considered.)"
+      },
+      {
+        "question": "What factor should the Court consider when deciding whether to grant bail based on the defendant's previous behavior under bail conditions?",
+        "options": {
+          "a": "Defendant's height",
+          "b": "Defendant's weight",
+          "c": "Defendant's character, antecedents, association, and community ties",
+          "d": "Defendant's eye color"
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). (Source: Section 4. (2) In deciding whether or not any of the circumstances specified in subsection (1) (a) exists in relation to any defendant, the Court, a Justice of the Peace or police officer shall take into account... (b) the defendant's character, antecedents, association, and community ties;)"
+      },
+      {
+        "question": "Under what circumstances may bail be denied to a defendant charged with an offense not punishable with imprisonment?",
+        "options": {
+          "a": "Defendant's financial status",
+          "b": "Defendant's age",
+          "c": "Defendant's previous convictions",
+          "d": "Defendant's failure to surrender to custody after a previous grant of bail"
+        },
+        "answer": "d",
+        "notes": "The correct answer is (d). (Source: Section 4. (4) Bail may be denied to a defendant in relation to an offence which is not punishable with imprisonment if... (a) it appears to the Court or a Justice of the Peace that, having been previously granted bail in criminal proceedings, the defendant has failed to surrender to custody...)"
+      },
+      {
+        "question": "Which section of the Act allows a person to appeal to a Judge in Chambers if bail is denied by a Resident Magistrate's Court?",
+        "options": {
+          "a": "Section 10",
+          "b": "Section 11",
+          "c": "Section 12",
+          "d": "Section 13"
+        },
+        "answer": "a",
+        "notes": "The correct answer is (a). (Source: Section 10. A defendant to whom section 9 applies may appeal to a Judge in Chambers.)"
+      },
+      {
+        "question": "What can a Resident Magistrate's Court do if a person fails to surrender to custody after being released on bail?",
+        "options": {
+          "a": "Impose a fine",
+          "b": "Revoke the bail",
+          "c": "Order community service",
+          "d": "Issue a warrant for arrest"
+        },
+        "answer": "d",
+        "notes": "The correct answer is (d). (Source: Section 16. (1) Where a person who has been released on bail in criminal proceedings and is under a duty to surrender to custody fails to surrender to custody at the time appointed for him to do so, the Court may issue a warrant for his arrest.)"
+      },
+      {
+        "question": "What is the penalty for a person guilty of an offense under Section 14(1)?",
+        "options": {
+          "a": "Fine not exceeding five hundred thousand dollars or imprisonment for a term not exceeding two years",
+          "b": "Fine not exceeding one million dollars or imprisonment for a term not exceeding three years",
+          "c": "Fine not exceeding three hundred thousand dollars or imprisonment for a term not exceeding one year",
+          "d": "Fine not exceeding one million dollars or imprisonment for a term not exceeding five years"
+        },
+        "answer": "a",
+        "notes": "The correct answer is (a). (Source: Section 15. A person who is guilty of an offence under section 14 (1) is liable on summary conviction before a Resident Magistrate to a fine not exceeding five hundred thousand dollars or to imprisonment for a term not exceeding two years.)"
+      },
+      {
+        "question": "Who has the authority to vary or impose conditions for bail after it has been granted by the Court?",
+        "options": {
+          "a": "Police Officer",
+          "b": "Prosecutor",
+          "c": "Defendant",
+          "d": "Court or Judge"
+        },
+        "answer": "d",
+        "notes": "The correct answer is (d). (Source: Section 6. (6) Where a Court has granted bail in criminal proceedings, it may on application... vary the conditions of bail or, where bail was granted unconditionally, impose conditions.)"
+      },
+      {
+        "question": "What does the Act consider when determining the suitability of a proposed surety?",
+        "options": {
+          "a": "Surety's favorite color",
+          "b": "Surety's profession, character, and proximity to the defendant",
+          "c": "Surety's bank balance",
+          "d": "Surety's physical fitness"
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). (Source: Section 17. (2) In considering the suitability of a proposed surety referred to in subsection (1)... (a) regard shall be had to such factors as the Court thinks fit, including... (ii) his character and his previous convictions, if any; (iii) his proximity, whether of kinship, place of residence or otherwise, to the person for whom he is to be a surety)"
+      },
+      {
+        "question": "What action can a Resident Magistrate take if a surety notifies the police that the person released on bail is unlikely to surrender to custody?",
+        "options": {
+          "a": "Issue a warrant for the person's arrest",
+          "b": "Extend the bail period",
+          "c": "Contact the defendant and advise surrender",
+          "d": "Release the surety from the obligation"
+        },
+        "answer": "a",
+        "notes": "The correct answer is (a). (Source: Section 16. (3) A person who has been released on bail in criminal proceedings may be arrested without warrant by a police officer where... (c) in the case where the person was released on bail with a surety, the surety notifies the police officer in writing that... (i) the person is unlikely to surrender to custody; and (ii) for that reason, the surety wishes to be relieved of his obligations as a surety.)"
+      },
+      {
+        "question": "What happens if a person is not charged within twenty-four hours after being arrested or detained according to the Act?",
+        "options": {
+          "a": "Automatic bail is granted",
+          "b": "Release without conditions",
+          "c": "Review by a higher court",
+          "d": "Brought before a Resident Magistrate or a Justice of the Peace"
+        },
+        "answer": "d",
+        "notes": "The correct answer is (d). (Source: Section 22. Where a person who is arrested or detained is not charged within twenty-four hours after such arrest or detention, he shall be brought forthwith before a Resident Magistrate or a Justice of the Peace who shall order that the person be released or make such other order as the Resident Magistrate or the Justice of the Peace thinks fit, having regard to the circumstances.)"
+      },
+      {
+        "question": "Who is responsible for making a record of the decision and providing a copy to the defendant when bail is granted by a Court or police officer?",
+        "options": {
+          "a": "Defendant",
+          "b": "Police Officer",
+          "c": "Resident Magistrate",
+          "d": "Court or Police Officer"
+        },
+        "answer": "d",
+        "notes": "The correct answer is (d). (Source: Section 7. (1) Subject to subsection (2), where... a Court or a police officer grants bail in criminal proceedings; that Court or police officer shall make a record of the decision and, where requested to do so by the defendant, shall cause a copy of the record of the decision to be given to him as soon as practicable after the record is made.)"
+      },
+      {
+        "question": "What is the consequence if a person released on bail fails to surrender to custody without reasonable cause?",
+        "options": {
+          "a": "Automatic fine",
+          "b": "Reduction of bail amount",
+          "c": "Additional conditions imposed",
+          "d": "Guilty of an offense"
+        },
+        "answer": "d",
+        "notes": "The correct answer is (d). (Source: Section 14. (1) A person who has been released on bail in criminal proceedings and has failed to surrender to custody is guilty of an offence unless he has reasonable cause for his failure to surrender to custody.)"
+      },
+      {
+        "question": "Who can enter into a recognizance if a surety declines to take it?",
+        "options": {
+          "a": "Court only",
+          "b": "Police Officer",
+          "c": "Resident Magistrate or specified individuals",
+          "d": "Defendant only"
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). (Source: Section 17. (7) Where pursuant to subsection (6), a recognizance is entered into otherwise than before the Court that fixed the amount of the recognizance, the recognizance shall have full force and effect as if it had been entered into before that Court.)"
+      },
+      {
+        "question": "When can a surety be released from obligation under the recognizance according to the Act?",
+        "options": {
+          "a": "Only if the defendant is acquitted",
+          "b": "If the defendant is acquitted or convicted",
+          "c": "If the defendant is convicted",
+          "d": "Only if the defendant is released unconditionally"
+        },
+        "answer": "b",
+        "notes": "The correct answer is (b). (Source: Section 19. (1) A surety shall be released from obligation under the recognizance entered into by him, in the following circumstances... (b) where the defendant concerned is acquitted or convicted, as the case may be.)"
+      },
+      {
+        "question": "Who may apply to the Court for release from obligations under a recognizance?",
+        "options": {
+          "a": "Surety only",
+          "b": "Defendant only",
+          "c": "Surety or Defendant",
+          "d": "Prosecutor only"
+        },
+        "answer": "a",
+        "notes": "The correct answer is (a). (Source: Section 19. (2) A surety who wishes to be released from his obligations under a recognizance... shall apply in writing for such release to the Court by which such recognizance was taken; and...)"
+      },
+      {
+        "question": "What does 'surrender to custody' mean under the Act?",
+        "options": {
+          "a": "Surrendering to a bail center",
+          "b": "Surrendering to the police station",
+          "c": "Surrendering to the Court or police at the specified time and place",
+          "d": "Surrendering to a judge"
+        },
+        "answer": "c",
+        "notes": "The correct answer is (c). (Source: Section 2. 'surrender to custody' means, in relation to a person released on bail, surrendering himself into the custody of a court or the police at the time and place appointed for him to do so;)"
+      }
+    ]
+  }
+  
