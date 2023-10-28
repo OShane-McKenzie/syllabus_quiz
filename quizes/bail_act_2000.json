@@ -38,10 +38,10 @@
       {
         "question": "Who may deny bail to a defendant charged with murder, treason, or treason felony?",
         "options": {
-          "a": "Police Officer",
-          "b": "Judge",
-          "c": "Justice of the Peace",
-          "d": "Resident Magistrate"
+          "a": "Police Officer.",
+          "b": "Minister.",
+          "c": "Justice of the Peace.",
+          "d": "Resident Magistrate."
         },
         "answer": "d",
         "notes": "The correct answer is (d). (Source: Section 3. (4) A person charged with murder, treason, or treason felony may be granted bail only by a Resident Magistrate or a Judge.)"
